@@ -1,3 +1,5 @@
+# Made usable for 5.3 and Linux by Daniel R. Koris
+
 # Summary
 
 lua-time is a simple and small library that provides some time methods that are lacking on standart library.
