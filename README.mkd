@@ -1,4 +1,4 @@
-# Made usable for 5.3 and Linux by Daniel R. Koris
+# Made usable for 5.3 and Linux-ONLY by Daniel R. Koris
 
 # Summary
 
